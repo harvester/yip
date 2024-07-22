@@ -20,7 +20,7 @@ require (
 	github.com/sanity-io/litter v1.5.5
 	github.com/satori/go.uuid v1.2.0
 	github.com/sirupsen/logrus v1.9.3
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	github.com/twpayne/go-vfs/v4 v4.3.0
 	github.com/zcalusic/sysinfo v1.0.2
 	golang.org/x/crypto v0.23.0
